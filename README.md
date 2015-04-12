@@ -1,2 +1,5 @@
-# my-dev-env
-My dev environment
+# My dev environment
+
+This repository contains:
+
+* My [sublime3 config](sublime)
