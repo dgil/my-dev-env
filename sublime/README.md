@@ -12,6 +12,8 @@ Below is the list of plug-ins I like for my dev environment. I use [Package Cont
 * [Select quoted](https://github.com/int3h/SublimeSelectQuoted)
 * [PHP unit completions](https://github.com/tkowalewski/phpunit-sublime-completions)
 * [SideBarEnhancements](https://github.com/titoBouzout/SideBarEnhancements)
+* [MarkdownEditing](https://github.com/SublimeText-Markdown/MarkdownEditing)
+* [SideBarEnhancements](https://github.com/titoBouzout/SideBarEnhancements)
 
 ## Themes
 * [Base16](https://github.com/chriskempson/base16)
