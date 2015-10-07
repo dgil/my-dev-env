@@ -1,5 +1,11 @@
 # My dev environment
 
-This repository contains:
+### Shell
+I use:
 
-* My [sublime3 config](sublime)
+* [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh)
+* [z](https://github.com/rupa/z/)
+
+
+### Editor
+I use Sublime Text 3. More info:[sublime3 config](sublime)
