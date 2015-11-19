@@ -8,4 +8,4 @@ I use:
 
 
 ### Editor
-I use Sublime Text 3. More info:[sublime3 config](sublime)
+I use Sublime Text 3. More info: [sublime3 config](sublime)
