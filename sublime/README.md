@@ -4,6 +4,7 @@
 
 Below is the list of plug-ins I installed in my Sublime Text 3 editor. I use [Package Control](https://packagecontrol.io/) to manage them.
 
+* [BracketHighlighter](https://github.com/facelessuser/BracketHighlighter)
 * [Docblockr](https://github.com/spadgos/sublime-jsdocs)
 * [EditorConfig](https://github.com/sindresorhus/editorconfig-sublime)
 * [Git Gutter](https://github.com/jisaacks/GitGutter)
@@ -18,4 +19,3 @@ Below is the list of plug-ins I installed in my Sublime Text 3 editor. I use [Pa
 
 ## Themes
 * [Seti](https://github.com/ctf0/Seti_ST3)
-* [Soda Theme](https://github.com/buymeasoda/soda-theme)
